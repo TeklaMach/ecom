@@ -1,0 +1,130 @@
+.product-content{
+  padding-bottom: 20px;
+
+}
+.product-details{
+  border-radius: 5px;
+  background-color: #fff;
+  border: solid 1px #eee;
+  width: 1073px;
+  margin-left: 46px;
+  height: 437px;
+}
+.product-images{
+  margin-right: 185px;
+  margin-left: 32px;
+  margin-top: 24px;
+}
+.product-memory-title{
+  flex-direction: column;
+}
+.product-memories{
+  display: flex;
+  gap: 8px;
+}
+.memories{
+  padding: 13px;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid #ff37d5a8;
+}
+.product-color-paletes{
+  display: flex;
+  gap: 8px;
+  margin-top: 26px;
+}
+.product-status{
+  display: flex;
+  align-items: baseline;
+  border: 1px solid rgb(215, 207, 207);
+  border-radius: 15px;
+}
+.product-status-icon{
+color: green;
+}
+h3{
+  margin-left: 270px;
+}
+.product-features{
+  display: flex;
+}
+.spec-name{
+  margin: 0px;
+}
+.product-s-d{
+  margin-right: -354px;
+}
+.color{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.color-one{
+  background-color: #0a3251;
+}
+.color-two{
+  background-color: #4b3d82;
+}
+.color-three{
+  background-color: #2585ce;
+}
+.current-image{
+  border-radius: 4px;
+  background-color: #fff;
+  border: solid 1px #f5f5f5;
+  width: 282px;
+}
+.detailed-images{
+  margin-top: 16px;
+  display: flex;
+  gap: 18px;
+}
+.detailed-image{
+  width: 66px;
+  border: solid 1px #f5f5f5;
+  cursor: pointer;
+}
+.productView-image{
+  padding: 10px;
+  height: auto;
+
+}
+.product-details{
+  display: flex;
+}
+.product-settings{
+  flex-direction: column;
+}
+.productView-title{
+  width: 400px;
+}
+  .product-s-d li {
+    list-style: none;
+    padding-bottom: 4px;
+    display: flex;
+    align-items: center;
+}
+.spec-l-side {
+  width: 70%;
+  border-top: 1px dashed rgba(108,125,144,.5);
+  position: relative;
+  margin-right: 10px;
+  top: 1px;
+}
+.spec-name {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  background: #fff;
+  padding-right: 10px;
+  color: #6c7d90;
+  font-size: 12px;
+  
+}
+.product-s-d li b {
+  width: 30%;
+  color: #0a3251;
+  font-size: 13px;
+  font-family: 'FiraGO-SemiBold';
+}

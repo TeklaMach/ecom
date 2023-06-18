@@ -1,0 +1,7 @@
+.navbarItem {
+    transition: color 0.3s ease;
+  }
+  
+  .navbarItem:hover {
+    color: #ff4081;
+  }
